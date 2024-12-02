@@ -58,7 +58,7 @@ admin_pages = [admin_1, admin_2]
 
 st.image("images/3.png")
 st.title("Request manager")
-st.logo("images/3.png", icon_image="4.png")
+st.logo("images/3.png", icon_image="images/4.png")
 
 page_dict = {}
 if st.session_state.role in ["Requester", "Admin"]:
