@@ -56,7 +56,7 @@ request_pages = [request_1, request_2]
 respond_pages = [respond_1, respond_2]
 admin_pages = [admin_1, admin_2]
 
-st.subheader("Black Guitar")
+st.image("images/3.png")
 st.title("Request manager")
 st.logo("images/3.png", icon_image="images/4.png", size="large")
 
